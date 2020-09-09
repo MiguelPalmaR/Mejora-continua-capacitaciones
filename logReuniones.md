@@ -6,7 +6,7 @@ José Tomás Domínguez
 Pía Osses 
 Miguel Palma
 
-- [Presentación proyecto]("Bibliografia/Reunion1.pdf") (JT)
+- [Presentación proyecto](https://github.com/FabLabUTFSM/Mejora-continua-capacitaciones/blob/master/Bibliografia/Reunion1.pdf) (JT)
     - Antecedentes 
     - Objetivos y proyectos 2020
 - Explicar proyectos (Pía)
