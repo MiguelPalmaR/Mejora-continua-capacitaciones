@@ -2,6 +2,7 @@
 
 Este repositorio busca almacenar todo el trabajo y documentación realizado en torno a las capacitaciones de uso de máquinas de Fab Lab UTFSM
 
+<img src="Images/capacitacion.PNG" width=600  >
 
 ## Enlaces clave: 
 
