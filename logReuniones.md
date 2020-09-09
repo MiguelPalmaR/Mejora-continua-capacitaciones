@@ -13,4 +13,4 @@ Miguel Palma
 - Explicar la forma de trabajo (JT)
 - Objetivos propios memorista (Miguel)
 
-- Compromisos proxima reunión: 
+### Compromisos proxima reunión: 
