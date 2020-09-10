@@ -21,7 +21,7 @@ Miguel Palma
     - Grupo de estudio presencial, planilla contactos, generar cuestionario (Pía).
 - Agendar capacitación presencial para Miguel, quedamos a la espera de que San Joaquín salga de la cuarentena (JT).
 - Arreglar base de datos capacitados (JT). 
-    - Definir fecha en que iniciamos las capacitaciones express (Pía). Update: 25-Nov  
+    - Definir fecha en que iniciamos las capacitaciones express (Pía). **Update: 25-Nov**  
     - Definir linea base (Miguel).
 - Enviar video tutorial git (JT).
 
