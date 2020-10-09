@@ -56,3 +56,15 @@ Desarrollar concursos de diseño en formato workshop como final del curso de mod
     - Conseguir excel registro uso de maquinas e indicadores (JT)
     - Invitar a alguien que explique la adquisición de datos y generación de indicadores (JT)
     - Definir viendo el ratio de capacitaciones (MP)
+    
+## 8-10
+- MP plantéa que Luis Guzman le comenta que quizas mejorar el proceso de capacitaciones orientado a aumentar la tasa de uso de las máquinas no es "tan mecánico". Por lo mismo JT le plantea un proyecto alternativo en caso de no tomar este tema, "Evaluación de SW de gestión de espacios de prototipado Fab Lab/MakerSpace". 
+- JT le plantea probar el SW 3DPrinterOS el sabado con Javier de la Cerda. 
+- JT le entrega las planillas arregladas para la adquisición de datas. 
+- MP presenta un excel con indicadores de capacitaciónes. 
+
+### Compromisos
+- Invitar a el MP a una reunión donde se explique como funciona el sistema que generá indicadores. (JT)
+- Definir el tema a trabajar. (MP)
+
+
