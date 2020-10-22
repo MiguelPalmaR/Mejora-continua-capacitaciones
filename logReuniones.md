@@ -67,4 +67,20 @@ Desarrollar concursos de diseño en formato workshop como final del curso de mod
 - Invitar a el MP a una reunión donde se explique como funciona el sistema que generá indicadores. (JT)
 - Definir el tema a trabajar. (MP)
 
+## 22-10
+Se incorpora Jaime Rodriguez, ayudante informatica Fab Lab. 
+
+### Compromisos
+- Jaime se compromete a enviar los video tutoriales de git, tanto el taller presencial como el crudo de la capacitacion. 
+- Jaime revisar codigo indicadores para actualizacion en tiempo real. 
+- Tabla con nuevos indicadores actualizados (JT). 
+- Enviar formulario de ingreso capacitaciones (JT). 
+- Miguel enviar feedback de los formularios con la informacion importante. 
+- Lista de temas donde puedan existir capacitaciones (JT).
+- Presentacion Que es confiabilidad huamana. (MP)
+- Encuesta ultimos capacitados (MP). 
+- Piloto modelo virtual de capacitacion, Impresora 3D (MP). 
+- Jaime y Miguel se reuniran con Pia y Javier para diseñar los talleres virtuales. 
+
+
 
