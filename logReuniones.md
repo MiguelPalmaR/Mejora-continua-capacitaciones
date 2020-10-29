@@ -82,5 +82,17 @@ Se incorpora Jaime Rodriguez, ayudante informatica Fab Lab.
 - Piloto modelo virtual de capacitacion, Impresora 3D (MP). 
 - Jaime y Miguel se reuniran con Pia y Javier para diseñar los talleres virtuales. 
 
+29-10 (Reunion extra)
+Asisten Miguel, Pia, Javier y Jaime. 
 
+El objetivo es generar una herramienta que permita evaluar el aprendizaje con las capacitaciones online. 
 
+- Miguel presenta que es confiabilidad humana. (insertar link presentacion)
+- Miguel propone incluir error en ciertas piezas de la capacitacion para ver si el alumno se percata de estos y sepan que no pasa nada si se equivocan. 
+- El objetivo de la capacitacion seria: 
+    - Conocimiento 
+    - Error y la experiencia de que esto no tiene grandes problemas
+    - Logro, algo terminado. Simple y "armable"
+- JT plantea usar repositorios de git, e issue trackers para facilitar la comunicacion entre usuarios de las maquinas. 
+- Temario capacitaciones - JDL debe entregar esta semana un readme para usar impresoras 3D.
+- Miguel y Jaime trabajaran en formas de apoyar las dudas en las capacitaciones. 
