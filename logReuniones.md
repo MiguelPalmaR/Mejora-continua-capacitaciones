@@ -87,7 +87,7 @@ Asisten Miguel, Pia, Javier y Jaime.
 
 El objetivo es generar una herramienta que permita evaluar el aprendizaje con las capacitaciones online. 
 
-- Miguel presenta que es confiabilidad humana. (insertar link presentacion)
+- [Miguel presenta que es confiabilidad humana.](https://github.com/MiguelPalmaR/TallerGit/blob/main/Presentaciones/Confiabilidad%20humana.pdf)
 - Miguel propone incluir error en ciertas piezas de la capacitacion para ver si el alumno se percata de estos y sepan que no pasa nada si se equivocan. 
 - El objetivo de la capacitacion seria: 
     - Conocimiento 
